@@ -12,14 +12,21 @@
 
 def lee_datos(ruta):
     tabla = []
+    propiedades = []
     f = open(ruta+'.txt','r')
     for linea in f:
         l = linea.strip()
         l = l.split(';')
-        for i in range(len(l)):
-            l[i]=float(l[i])
-        tabla.append(l)
+        if l[0] == '#':
+            prop = []
+            for elemento in l:
+                if elemento != '#':
+                    prop.append(elemento)
+            propiedades.append(prop)
+        else:
+            for i in range(len(l)):
+                l[i]=float(l[i])
+            tabla.append(l)
     f.close()
     #del f
-
-    return tabla
+    return [tabla,propiedades]

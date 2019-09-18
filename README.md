@@ -1,3 +1,6 @@
+# v3 incluye:
+·Propiedades de fluidos en cada .txt							        Hecho el 07/06/2017
+·Programa único de interpolación, independiente del fluido				Hecho el 07/06/2017
 
 # v2 incluye:
 ·Permite usar la presión para interpolar						Hecho el 04/06/2017

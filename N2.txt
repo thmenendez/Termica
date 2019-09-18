@@ -1,3 +1,7 @@
+#;Temperatura;T;K
+#;Entalpia;h;kJ/kg
+#;Energia interna;u;kJ/kg
+#;Entropia;S;kJ/(kg*K)
 220;6.391;4.56;182.639
 230;6.683;4.77;183.938
 240;6.975;4.98;185.18

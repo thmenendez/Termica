@@ -1,3 +1,9 @@
+#;Temperatura;T;K
+#;Entalpia;h;kJ/kg
+#;Presion relativa;Pr;
+#;Energia interna;u;kJ/kg
+#;Volumen relativo;Vr;
+#;Entropia;S;kJ/(kg*K)
 200;199.97;0.34;142.56;1707.00;1.30
 210.00;209.97;0.40;149.69;1512.00;1.34
 220.00;219.97;0.47;156.82;1346.00;1.39

@@ -1,3 +1,16 @@
+#;Temperatura;T;C
+#;Presion;P;kPa
+#;Volumen especifico del liquido;Vl;m3/kg
+#;Volumen especifico del vapor;Vv;m3/kg
+#;Energia interna del liquido;ul;kJ/kg
+#;Energia interna de evaporacion;uevap;kJ/kg
+#;Energia interna del vapor;uv;kJ/kg
+#;Entalpia del liquido;hl;kJ/kg
+#;Entalpia de evaporacion;hevap;kJ/kg
+#;Entalpia del vapor;hv;kJ/kg
+#;Entropia del liquido;sl;kJ/(kg*K)
+#;Entropia de evaporacion;sevap;kJ/(kg*K)
+#;Entropia del vapor;sv;kJ/(kg*K)
 -40;51.25;0.0007054;0.36081;-0.036;207.4;207.37;0;225.86;225.86;0;0.96866;0.96866
 -38;56.86;0.0007083;0.32732;2.475;206.04;208.51;2.515;224.61;227.12;0.01072;0.95511;0.96584
 -36.95;60;0.0007098;0.31121;3.798;205.32;209.12;3.841;223.95;227.79;0.01634;0.94807;0.96441
