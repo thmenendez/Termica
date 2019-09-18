@@ -10,10 +10,9 @@
 #-------------------------------------------------------------------------------
 
 
-def lee_datos_vapor_agua():
-    """Recibe un indicador de temperatura (1) o presion (0) y devuelve la tabla completa en floats"""
+def lee_datos(ruta):
     tabla = []
-    f = open('R134a.txt','r')
+    f = open(ruta+'.txt','r')
     for linea in f:
         l = linea.strip()
         l = l.split(';')

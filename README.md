@@ -1,6 +1,12 @@
 
-v1 incluye:
-稭ejora del interpocalor para imprimir todas las propiedades.				Hecho el 04/06/2017
+# v2 incluye:
+路Permite usar la presi贸n para interpolar						Hecho el 04/06/2017
+路Permite otras propiedades para interpolar						HACER
+路Permite interpolar aire con cualquier propiedad					Hecho el 05/06/2017
+路Incluido el N2										Hecho el 06/06/2017
 
-v0 incluye:
-稩nterpocalor del R134a copiado del de Transmisi髇 de Calor.				Hecho el 03/06/2017
+# v1 incluye:
+路Mejora del interpocalor para imprimir todas las propiedades.				Hecho el 04/06/2017
+
+# v0 incluye:
+路Interpocalor del R134a copiado del de Transmisi贸n de Calor.				Hecho el 03/06/2017
